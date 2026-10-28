@@ -30,7 +30,8 @@ y = float(input("Enter another number: "))
 z = round(x + y, 2)
 print(z)
 
-# Метод 5. Флоат и округление до 2 знаков после запятой с использованием форматирования
+# Метод 5. Флоат и округление до 2 знаков после запятой
+# с использованием форматирования
 x = float(input("Enter a number: "))
 y = float(input("Enter another number: "))
 
